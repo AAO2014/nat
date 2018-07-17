@@ -1,1 +1,5 @@
 local*
+*.pyc
+.idea
+__pychache__
+
